@@ -12,9 +12,6 @@ def conversor(tipo_pesos, valor_dolar):
 
 
 
-# 
-
-
 menu = """
 Bienvenido al conversior de monedas 💰
 Escriba el numero correspondiente a la divisa que desea convertir
