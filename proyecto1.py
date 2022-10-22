@@ -9,7 +9,7 @@ numero2 = "7"
 suma = numero1 + numero2
 
 
-# la suma será una adecion de caracteres ya que no son numeros
+# la suma será una adicion de caracteres ya que no son numeros
 print (suma)
 
 # se cambia tipo de dato por numeros para obtener una suma aritmetica
